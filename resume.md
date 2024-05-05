@@ -55,12 +55,3 @@ hand -->
 ## Education
 ### <span>Troy University, Troy, AL</span> <span>Graduation Date: May 2022</span>
 <div class="subheader"><span>B.S Computer Science</span> <span><strong>GPA:</strong> 3.5/4.0</span></div>
-
-
-## Certificates
-- [ Data Engineer with Python ](https://www.datacamp.com/statement-of-accomplishment/track/6c5e5eacdffba0305fdac6454ba4cc5cc4520d30) (DataCamp)
-- [ DataTalks Data Engineer Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/4ba3d86420dd8c7f12e235aeab4bfd9fe5a76e31.pdf)
-- [ Big Data with Spark and Hadoop ](https://www.coursera.org/account/accomplishments/certificate/PKZ35UK8GP3T) (IBM)
-- [ Python for Data Science and Machine Learning Bootcamp ](https://www.udemy.com/certificate/UC-4caa39bf-5639-49b9-be48-e2f1ff6beea8/) (Udemy)
-- [ SQL Advanced ](https://www.hackerrank.com/certificates/iframe/0d10b33f3f67) (HackerRank)
-

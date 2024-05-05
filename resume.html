@@ -57,12 +57,20 @@ h3 + .subheader {
 p {
     margin: 0 0 0.5em 0;
     padding: 0;
-    }
+}
 ul {
     padding: 0;
     margin: 0 1.5em;
-    }
+}
+li {
+    padding: 4px 0px;
+}
+
 /* ul immediately after h1 = contact list */
+.br {
+    display: block;
+    margin-bottom: 0.2em;
+}
 h1 + ul {
     text-align: center;
     margin: 0;
@@ -143,15 +151,16 @@ h1 + ul + p {
 line. It is intended to be used for contact details -->
 <ul>
 <li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#98;&#101;&#110;&#46;&#108;&#101;&#46;&#100;&#97;&#116;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#98;&#101;&#110;&#46;&#108;&#101;&#46;&#100;&#97;&#116;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
-<li>(+84)-825-717-449</li>
-<li><a href="http://richardhendricks.example.com">richardhendricks.example.com</a></li>
+<li>(+84)-825-717-449
+<span class='br'></span></li>
+<li>Linkedin: <a href="https://www.linkedin.com/in/trietbenle/">://trietbenle</a></li>
 <li>Ho Chi Minh City, Vietnam</li>
 </ul>
 <h2>Skills</h2>
 <ul>
 <li>Language: Python, Scala, JavaScript, SQL, Bash, HTML, CSS</li>
 <li>Technology: BigQuery, DuckDB, dbt, Pandas, Airflow, Spark, GCP, Docker, Ansible, Vagrant, Terraform</li>
-<li>Skills: Cloud, ETL, Data Warehouse, Business Intelligence, Data Modeling, RDBMS</li>
+<li>Skills: Cloud, ETL, Data Warehouse, Business Intelligence, Data Modeling, RDBMS, Machine Learning, Data Science</li>
 </ul>
 <h2>Experience</h2>
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
@@ -160,20 +169,23 @@ hand -->
 <div class="subheader"><span>Data Engineer</span> <span>Aug 2022 - Present</span></div>
 
 <ul>
-<li>Build a data usage monitoring system for internal data team and visualize on Holistics. Reduced 50% usage on BigQuery</li>
-<li>Collab with DevOps team to host and Implement CI/CD pipeline for internal dbt and Prefect repositories</li>
-<li>Build a data observability system for ~1500 data products (dashboards, data models and data pipelines). Resulted in a 60% decrease in data products broken rate within the first 2 months of implementation </li>
-<li>Lead the redesign and implementation of the Data Warehouse using Dimensional Modeling paradigm, enabling scalable support for advanced business analytics use cases</li>
+<li>Lead the redesign a legacy Data Warehouse architecture with various modeling paradigms, enabling scalable support for advanced business analytics use cases.</li>
+<li>Develop and maintain <strong>~100</strong> ETL data pipelines from <strong>~20</strong> data sources to a central Data Warehouse, enabling robust business intelligence and analytics capabilities.</li>
+<li>Implement a comprehensive Data Catalog with over <strong>150</strong> tables to streamline data accessibility, resulting in a <strong>40%</strong> increase in weekly SQL Data Warehouse users.</li>
+<li>Design and implement a data usage monitoring system to pinpoint expensive query run on production. The system ultimately reduces redundant <strong>BigQuery</strong> usage by <strong>70%</strong> compared to its peak.</li>
+<li>Setup <strong>Snowplow</strong> event tracking to measure product analytics. This system offers visibility into key success metrics, enabling the Product team to make data-informed decisions about product enhancements and accelerate iterative development.</li>
+<li>Build a data observability system for <strong>~1500</strong> data products (dashboards, data models and data pipelines). This system has enabled prompt responses to data pipeline failures with <strong>60%</strong> decrease in failure rates, reducing the mean time to recovery and enhancing the reliability of data pipelines critical to business operations.</li>
+<li>Collaborate with the DevOps team to automate <strong>GitHub Actions</strong> CI/CD pipelines for internal data projects, reducing manual deployments and enabling faster, error-free releases.</li>
 </ul>
-<div class="subheader"><span>DevOps Engineer</span> <span>Feb 2024 - Present</span></div>
-
-<p>Placeholder</p>
 <div class="subheader">
   <span> Technical Writer </span> 
   <span>Aug 2023 - Jan 2024</span>
 </div>
 
-<p>Placeholder</p>
+<ul>
+<li>Managed a team of <strong>3</strong> technical writers and data analysts, producing <strong>20+</strong> best practice articles and tutorials. These articles enhanced customers understand the product&rsquo;s capabilities, ultimately increasing the likelihood of product adoption and purchase</li>
+<li>Researched and documented BI use cases to enhance user understanding and adoption of analytics solutions. </li>
+</ul>
 <h3><span>Troy University</span> <span>Troy, Alabama</span></h3>
 <div class="subheader"><span>Computer Science Tutor and Lab Assistant</span> <span>Sep 2021 - May 2022</span></div>
 
@@ -182,9 +194,12 @@ hand -->
 <li>Assisted instructor in the daily assessment of student progress and inspected student assignment</li>
 <li>Maintained and monitored software and hardware</li>
 </ul>
-<h3><span>Kids Code Camp</span> <span>Ha Noi, Vietnam (Remote)</span></h3>
+<h3><span>Kids Code Camp</span> <span>Troy, Alabama (Remote)</span></h3>
 <div class="subheader"><span>Python Instructor</span> <span>Jul 2021 - Sep 2021</span></div>
-<p>Placeholder</p>
+<ul>
+<li>Taught introductory Python for a group of ~150 international secondary/high-school students</li>
+<li>Helped students develop programmatical thinking and inspired the new generation to purchase a career in tech</li>
+</ul>
 <h2>Projects</h2>
 <h3><span> Data Clinic Bot </span> <span>Mar 2023 </span></h3>
 <ul>
@@ -199,7 +214,7 @@ hand -->
 <h2>Education</h2>
 <h3><span>Troy University, Troy, AL</span> <span>Graduation Date: May 2022</span></h3>
 <div class="subheader"><span>B.S Computer Science</span> <span><strong>GPA:</strong> 3.5/4.0</span></div>
-
+<p><em>Activity: Vietnam Student Association (VSA), Computer Science Club, Data Analytics Club, Tennis Club</em></p>
 <h2>Certificates</h2>
 <ul>
 <li><a href="https://www.datacamp.com/statement-of-accomplishment/track/6c5e5eacdffba0305fdac6454ba4cc5cc4520d30"> Data Engineer with Python </a> (DataCamp)</li>

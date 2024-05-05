@@ -5,38 +5,36 @@
 line. It is intended to be used for contact details -->
 - <ben.le.data@gmail.com>
 - (+84)-825-717-449
-- [richardhendricks.example.com](http://richardhendricks.example.com)
+<span class='br'></span>
+- Linkedin: [://trietbenle](https://www.linkedin.com/in/trietbenle/)
 - Ho Chi Minh City, Vietnam
 
 ## Skills
  - Language: Python, Scala, JavaScript, SQL, Bash, HTML, CSS
  - Technology: BigQuery, DuckDB, dbt, Pandas, Airflow, Spark, GCP, Docker, Ansible, Vagrant, Terraform
- - Skills: Cloud, ETL, Data Warehouse, Business Intelligence, Data Modeling, RDBMS
+ - Skills: Cloud, ETL, Data Warehouse, Business Intelligence, Data Modeling, RDBMS, Machine Learning, Data Science
 
 ## Experience
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 ### <span>Holistics</span> <span>Ho Chi Minh, Vietnam</span>
 <div class="subheader"><span>Data Engineer</span> <span>Aug 2022 - Present</span></div>
-- Build a data usage monitoring system for internal data team and visualize on Holistics. Reduced 50% usage on BigQuery
-- Collab with DevOps team to host and Implement CI/CD pipeline for internal Data projects
-- Build a data observability system for ~1500 data products (dashboards, data models and data pipelines). Resulted in a 60% decrease in data products broken rate within the first 2 months of implementation 
-- Lead the redesign and implementation of the Data Warehouse with various modeling paradigm, enabling scalable support for advanced business analytics use cases
-- Develop data pipelines 
-- Build a Data Catalog
 
-<div class="subheader"><span>DevOps Engineer</span> <span>Feb 2024 - Present</span></div>
-
-Placeholder
+- Lead the redesign a legacy **Data Warehouse** architecture with various modeling paradigms, enabling scalable support for advanced business analytics use cases.
+- Develop and maintain **~100 ETL data pipelines** from **~20** data sources to a central Data Warehouse, enabling robust business intelligence and analytics capabilities.
+- Implement a comprehensive **Data Catalog** with over **150** tables to streamline data accessibility, resulting in a **40%** increase in weekly SQL Data Warehouse users.
+- Design and implement a data usage monitoring system to pinpoint expensive query run on production. The system ultimately reduces redundant **BigQuery** usage by **70%** compared to its peak.
+- Setup **Snowplow event tracking** to measure product analytics. This system offers visibility into key success metrics, enabling the Product team to make data-informed decisions about product enhancements and accelerate iterative development.
+- Build a **data observability system** for **~1500** data products (dashboards, data models and data pipelines). This system has enabled prompt responses to data pipeline failures with **60%** decrease in failure rates, reducing the mean time to recovery and enhancing the reliability of data pipelines critical to business operations.
+- Collaborate with the DevOps team to automate **GitHub Actions CI/CD** pipelines for internal data projects, reducing manual deployments and enabling faster, error-free releases.
 
 <div class="subheader">
   <span> Technical Writer </span> 
   <span>Aug 2023 - Jan 2024</span>
 </div>
 
-- Managed a team of 3 (1 Technical Writers and  2 Data Analysts) to write Data technical content
-- Authored and published over 15+ analytics best practices and tutorial articles on Holistics docs 
-- Research BI use cases
+- Managed a team of **3** technical writers and data analysts, producing **20+** best practice articles and tutorials. These articles enhanced customers understand the product's capabilities, ultimately increasing the likelihood of product adoption and purchase
+- Researched and documented BI use cases to enhance user understanding and adoption of analytics solutions. 
 
 ### <span>Troy University</span> <span>Troy, Alabama</span>
 <div class="subheader"><span>Computer Science Tutor and Lab Assistant</span> <span>Sep 2021 - May 2022</span></div>
@@ -46,9 +44,10 @@ Placeholder
 - Maintained and monitored software and hardware
 
 
-### <span>Kids Code Camp</span> <span>Ha Noi, Vietnam (Remote)</span>
+### <span>Kids Code Camp</span> <span>Troy, Alabama (Remote)</span>
 <div class="subheader"><span>Python Instructor</span> <span>Jul 2021 - Sep 2021</span></div>
-Placeholder
+- Taught introductory Python for a group of ~150 international secondary/high-school students
+- Helped students develop programmatical thinking and inspired the new generation to purchase a career in tech
 
 ## Projects
 ### <span> Data Clinic Bot </span> <span>Mar 2023 </span>
@@ -62,6 +61,8 @@ Placeholder
 ## Education
 ### <span>Troy University, Troy, AL</span> <span>Graduation Date: May 2022</span>
 <div class="subheader"><span>B.S Computer Science</span> <span><strong>GPA:</strong> 3.5/4.0</span></div>
+_Activity: Vietnam Student Association (VSA), Computer Science Club, Data Analytics Club, Tennis Club_
+
 
 ## Certificates
 - [ Data Engineer with Python ](https://www.datacamp.com/statement-of-accomplishment/track/6c5e5eacdffba0305fdac6454ba4cc5cc4520d30) (DataCamp)

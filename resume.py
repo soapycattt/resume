@@ -32,6 +32,7 @@ postamble = """\
 """
 
 CHROME_GUESSES_MACOS = (
+    "/Applications/Arc.app/Contents/MacOS/Arc",
     "/Applications/Chromium.app/Contents/MacOS/Chromium",
     "/Applications/Google Chrome Canary.app/Contents/MacOS/Google Chrome Canary",
     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",

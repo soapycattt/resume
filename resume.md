@@ -51,6 +51,11 @@ hand -->
 - Tutored college students in Python, C++, Java with more than 200+ hours of coding lessons 
 -	Assisted instructor in the daily assessment of student progress and inspected student assignment
 
+### <span>Kids Code Camp</span> <span>Troy, Alabama (Remote)</span>
+<div class="subheader"><span>Python Instructor</span> <span>Jul 2021 - Sep 2021</span></div>
+- Taught introductory Python for a group of ~150 international secondary/high-school students
+- Helped students develop programmatical thinking and inspired the new generation to purchase a career in tech
+
 ## Education
 ### <span>Troy University, Troy, AL</span> <span>Graduation Date: May 2022</span>
 <div class="subheader"><span>B.S Computer Science</span> <span><strong>GPA:</strong> 3.5/4.0</span></div>

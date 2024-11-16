@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 ## Skills
  - Language: Python, Scala, JavaScript, SQL, Bash, HTML, CSS
- - Technology: BigQuery, DuckDB, dbt, Pandas, Airflow, Spark, GCP, Docker, Ansible, Vagrant, Terraform
+ - Technology: BigQuery, DuckDB, dbt, Pandas, Airflow, Spark, GCP, Docker, Ansible, Vagrant, Terraform, Flask
  - Skills: ETL, Data Warehouse, Business Intelligence, Data Modeling, Cloud, RDBMS, Machine Learning, Functional Programming
 
 ## Experience
@@ -33,7 +33,7 @@ hand -->
   <span>Aug 2023 - Jan 2024</span>
 </div>
 
-- Managed a team of **3** technical writers and data analysts, producing **20+** best practice articles and tutorials. These articles enhanced customers understand the product's capabilities which increases product adoptions.
+- Managed a team of **3** technical writers and data analysts, publishing **20+** analytics best practice articles and tutorials. These articles enhanced customers understand on the Holistics capabilities which increases product adoptions.
 - Researched and documented BI use cases to enhance user understanding and adoption of analytics solutions. 
 
 ### <span>Troy University</span> <span>Troy, Alabama</span>
@@ -42,16 +42,14 @@ hand -->
 - Tutored college students in Python, C++, Java with more than 200+ hours of coding lessons 
 -	Assisted instructor in the daily assessment of student progress and inspected student assignment
 
-
-## Projects
-### <span> Data Clinic Bot </span> <span>Mar 2023 </span>
-- Developed a RAG Slack ChatBot using Langchain with GPT 4.0 and Pinecone Vector Database
-- The chatbot answers high-level data inquiries and suggest relevant Holistics reports
-
-### <span> Anime Recommendation</span> <span>Mar 2022 </span>
-- Developed a web-based anime recommendation tool using Flask, CSS, and HTML and cosine similarity algorithm
-- Performed data cleaning and feature engineering using Scipy, Numpy, Pandas, and Sklearn
-
 ## Education
 ### <span>Troy University, Troy, AL</span> <span>Graduation Date: May 2022</span>
 <div class="subheader"><span>B.S Computer Science</span> <span><strong>GPA:</strong> 3.5/4.0</span></div>
+
+## Certificates
+- [ Data Engineer with Python ](https://www.datacamp.com/statement-of-accomplishment/track/6c5e5eacdffba0305fdac6454ba4cc5cc4520d30) (DataCamp)
+- [ DataTalks Data Engineer Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/4ba3d86420dd8c7f12e235aeab4bfd9fe5a76e31.pdf)
+- [ Big Data with Spark and Hadoop ](https://www.coursera.org/account/accomplishments/certificate/PKZ35UK8GP3T) (IBM)
+- [ Python for Data Science and Machine Learning Bootcamp ](https://www.udemy.com/certificate/UC-4caa39bf-5639-49b9-be48-e2f1ff6beea8/) (Udemy)
+- [ SQL Advanced ](https://www.hackerrank.com/certificates/iframe/0d10b33f3f67) (HackerRank)
+

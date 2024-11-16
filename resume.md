@@ -17,6 +17,15 @@ line. It is intended to be used for contact details -->
 ## Experience
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
+
+### <span>Large Wealth Management Firm (Name Withheld)</span> <span>Remote (Kansas, US)</span>
+<div class="subheader"><span>Data Engineer (Part-time)</span> <span>Jun 2024 - Nov 2024</span></div>
+
+- Migrated a legacy on-premise wealth management data platform to **Azure**, improving scalability and reducing operational overhead.
+- Designed and implemented ETL pipelines copying operational data from Redshift and S3 to Azure Data Lake using Azure Data Factory (ADF).
+- Applied the Medallion architecture pattern with **Spark** on **Databricks**
+- Developed APIs with **.NET** to expose system data from the Silver layer for seamless integration with downstream applications
+
 ### <span>Holistics</span> <span>Ho Chi Minh, Vietnam</span>
 <div class="subheader"><span>Data Engineer</span> <span>Aug 2022 - Present</span></div>
 
@@ -52,4 +61,3 @@ hand -->
 - [ Big Data with Spark and Hadoop ](https://www.coursera.org/account/accomplishments/certificate/PKZ35UK8GP3T) (IBM)
 - [ Python for Data Science and Machine Learning Bootcamp ](https://www.udemy.com/certificate/UC-4caa39bf-5639-49b9-be48-e2f1ff6beea8/) (Udemy)
 - [ SQL Advanced ](https://www.hackerrank.com/certificates/iframe/0d10b33f3f67) (HackerRank)
-

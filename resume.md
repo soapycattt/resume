@@ -18,16 +18,16 @@ line. It is intended to be used for contact details -->
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-### <span>Large Wealth Management Firm (Name Withheld)</span> <span>Remote (Kansas, US)</span>
+### <span>Leading Wealth Management Firm (Name Withheld)</span> <span>Kansas, US (Remote)</span>
 <div class="subheader"><span>Data Engineer (Part-time)</span> <span>Jun 2024 - Nov 2024</span></div>
 
 - Migrated a legacy on-premise wealth management data platform to **Azure**, improving scalability and reducing operational overhead.
-- Designed and implemented ETL pipelines copying operational data from Redshift and S3 to Azure Data Lake using Azure Data Factory (ADF).
-- Applied the Medallion architecture pattern with **Spark** on **Databricks**
+- Designed and implemented ETL pipelines copying operational data from **Redshift** and **S3** to **Azure Data Lake** using **Azure Data Factory**.
+- Applied the Medallion architecture for data processing with **Spark** on **Databricks**
 - Developed APIs with **.NET** to expose system data from the Silver layer for seamless integration with downstream applications
 
 ### <span>Holistics</span> <span>Ho Chi Minh, Vietnam</span>
-<div class="subheader"><span>Data Engineer</span> <span>Aug 2022 - Present</span></div>
+<div class="subheader"><span>Data Engineer</span> <span>Aug 2022 - Nov 2024</span></div>
 
 - Redesign a legacy **Data Warehouse** architecture with various modeling paradigms(Dimensional Modeling, Event Schema) using **dbt**, enabling scalable support for advanced business analytics use cases.
 - Develop and orchestrate **~100 ETL data pipelines** with **Prefect** from **~20** data sources to a central Data Warehouse, providing robust analytics insights and capabilities.
@@ -45,13 +45,13 @@ hand -->
 - Managed a team of **3** technical writers and data analysts, publishing **20+** analytics best practice articles and tutorials. These articles enhanced customers understand on the Holistics capabilities which increases product adoptions.
 - Researched and documented BI use cases to enhance user understanding and adoption of analytics solutions. 
 
-### <span>Troy University</span> <span>Troy, Alabama</span>
+### <span>Troy University</span> <span>Troy, Alabama, US</span>
 <div class="subheader"><span>Computer Science Tutor and Lab Assistant</span> <span>Jul 2021 - May 2022</span></div>
 
 - Tutored college students in Python, C++, Java with more than 200+ hours of coding lessons 
 -	Assisted instructor in the daily assessment of student progress and inspected student assignment
 
-### <span>Kids Code Camp</span> <span>Troy, Alabama (Remote)</span>
+### <span>Kids Code Camp</span> <span>Ha Noi, Vietnam (Remote)</span>
 <div class="subheader"><span>Python Instructor</span> <span>Jul 2021 - Sep 2021</span></div>
 - Taught introductory Python for a group of ~150 international secondary/high-school students
 - Helped students develop programmatical thinking and inspired the new generation to purchase a career in tech

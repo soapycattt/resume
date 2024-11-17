@@ -59,6 +59,7 @@ hand -->
 
 <br/>
 <br/>
+<br/>
 
 ### <span>Troy University</span> <span>Troy, Alabama, US</span>
 <div class="subheader"><span>Computer Science Tutor and Lab Assistant (Part-time)</span> <span>Jul 2021 - May 2022</span></div>

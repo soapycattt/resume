@@ -12,10 +12,10 @@ line. It is intended to be used for contact details -->
 ## Skills
  - **Programming**: Python, Scala, JavaScript, SQL, Bash, HTML/CSS
  - **Data & Analytics**: BigQuery, DuckDB, Postgres, dbt, Pandas, Prefect, Airflow, Spark
- - **Cloud & DevOps**: GCP, Azure, Databricks, Docker, Ansible, Vagrant, Terraform
+ - **Cloud & DevOps**: GCP, Azure, Databricks, GitHub Action, CircleCI, Docker, Ansible, Vagrant, Terraform
  - **General Skills**: ETL, Data Warehouse, Business Intelligence, Data Modeling, RDBMS, Machine Learning, Functional Programming
 
-## Experience
+## Experiences
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
@@ -27,7 +27,7 @@ hand -->
 ### <span>Leading Wealth Management Firm (Name Withheld)</span> <span>Kansas, US (Remote)</span>
 <div class="subheader"><span>Data Engineer (Part-time)</span> <span>Jun 2024 - Nov 2024</span></div>
 
-- Migrated a legacy on-premise wealth management data platform to **Azure**, improving scalability and reducing operational overhead.
+- Modernized and migrated a legacy wealth management data platform from **AWS** to **Azure Databricks**, improving scalability and reducing operational overhead.
 - Designed and implemented ETL pipelines copying operational data from **Redshift** and **S3** to **Azure Data Lake** using **Azure Data Factory**.
 - Applied the Medallion architecture for data processing with **Spark** on **Databricks**
 - Developed APIs with **.NET** to expose system data from the Silver layer for seamless integration with downstream applications
@@ -36,15 +36,16 @@ hand -->
 ### <span>Holistics</span> <span>Ho Chi Minh, Vietnam</span>
 <div class="subheader"><span>Data Engineer</span> <span>Aug 2022 - Nov 2024</span></div>
 
-- Revamped the **Data Warehouse** architecture using **dbt**, enabling advanced business analytics.
+- Revamped the **Data Warehouse** architecture using variety of data modeling and data governance techniques, enabling advanced business analytics.
+- Prepared BI datasets with **dbt** and **Holistics**, assisting stakeholders in building analytics dashboards for business insights
 - Orchestrated **100+ ETL pipelines** with **Prefect**, integrating **20+ data sources** into a central Data Warehouse.
 - Developed a **Data Catalog** with **dbdocs**, increasing SQL user activity by **40%**.
 - Designed a data usage monitoring system, reducing redundant **BigQuery** usage by **70%**.
 - Built a **data observability system** in **Grafana**, decreasing pipeline failure rates by **60%**.
-- Automated CI/CD for data projects with **GitHub Actions**, reducing deployment errors.
+- Automated CI/CD for data projects with **GitHub Actions** and **Ansible**, reducing deployment errors.
 - Set up **Snowplow** to track product analytics, enabling data-driven decisions and faster product iterations.
 - Maintained and managed the entire data stack lifecycle, ensuring system reliability.
-- Supported Sales and Product teams in preparing Data Warehouse and datasets to demo Holistics BI solutions to potential customers.
+- Supported Sales and Product teams in preparing datasets and reports to demo **Holistics** to prospects.
 - Served as the primary contact for communicating with business and technical stakeholders, aligning on requirements to deliver effective data solutions.
 
 <div class="subheader">
@@ -52,8 +53,13 @@ hand -->
   <span>Aug 2023 - Jan 2024</span>
 </div>
 
-- Managed a team of **3** technical writers and data analysts, publishing **20+** analytics best practice articles and tutorials. These articles enhanced customers understand on the Holistics capabilities which increases product adoptions.
+- Managed a team of **3** technical writers and data analysts, publishing **20+** analytics best practice articles and tutorials. These articles enhanced customers understand on the **Holistics** capabilities which increases product adoptions.
 - Researched and documented BI use cases to enhance user understanding and adoption of analytics solutions. 
+- Contributed to **Holistics**' public documentation using **Docusaurus**.
+- Maintained CI/CD pipelines in **CircleCI** and **Ansible**, improving the quality and consistency of documentation.
+
+<br/>
+<br/>
 
 ### <span>Troy University</span> <span>Troy, Alabama, US</span>
 <div class="subheader"><span>Computer Science Tutor and Lab Assistant (Part-time)</span> <span>Jul 2021 - May 2022</span></div>
@@ -61,8 +67,6 @@ hand -->
 - Tutored college students in Python, C++, Java with more than 200+ hours of coding lessons 
 -	Assisted instructor in the daily assessment of student progress and inspected student assignment
 
-<br/>
-<br/>
 
 ### <span>Kids Code Camp</span> <span>Ha Noi, Vietnam (Remote)</span>
 <div class="subheader"><span>Python Instructor (Part-time)</span> <span>Jul 2021 - Sep 2021</span></div>
@@ -72,6 +76,14 @@ hand -->
 ## Education
 ### <span>Troy University, Troy, AL</span> <span>Graduation Date: May 2022</span>
 <div class="subheader"><span>B.S Computer Science, Minor in Mathematics</span> <span><strong>GPA:</strong> 3.5/4.0</span></div>
+
+## Activities
+- *Volunteer* at Passage to ASEAN (P2A) Association: Universiti Teknologi Malaysia, Kuala Lumpur, Malaysia (2017)
+- *Volunteer* at Learning Express (LeX) Program: Singapore Polytechnic - Duy Tan University, Da Nang, Vietnam (2019)
+- *Participant* at Sustainable Development Forum: Feng Chia University, Taichung, Taiwan (2019)
+- *Member* of Computer Science club, Data & Information System club, Tennis club: Troy University, Alabama, U.S (2019 - 2022)
+- *President* of Vietnamese Student Association: Troy University, Alabama, U.S (2021 - 2022)
+
 
 ## Certificates
 - [ Data Engineer with Python ](https://www.datacamp.com/statement-of-accomplishment/track/6c5e5eacdffba0305fdac6454ba4cc5cc4520d30) (DataCamp)

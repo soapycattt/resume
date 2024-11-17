@@ -10,13 +10,19 @@ line. It is intended to be used for contact details -->
 - Ho Chi Minh City, Vietnam
 
 ## Skills
- - Language: Python, Scala, JavaScript, SQL, Bash, HTML, CSS
- - Technology: BigQuery, DuckDB, dbt, Pandas, Airflow, Spark, GCP, Docker, Ansible, Vagrant, Terraform, Flask
- - Skills: ETL, Data Warehouse, Business Intelligence, Data Modeling, Cloud, RDBMS, Machine Learning, Functional Programming
+ - **Programming**: Python, Scala, JavaScript, SQL, Bash, HTML/CSS
+ - **Data & Analytics**: BigQuery, DuckDB, Postgres, dbt, Pandas, Prefect, Airflow, Spark
+ - **Cloud & DevOps**: GCP, Azure, Databricks, Docker, Ansible, Vagrant, Terraform
+ - **General Skills**: ETL, Data Warehouse, Business Intelligence, Data Modeling, RDBMS, Machine Learning, Functional Programming
 
 ## Experience
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
+
+### <span>Grab</span> <span>Ho Chi Minh, Vietnam</span>
+<div class="subheader"><span>Data Engineer</span> <span>Nov 2024 - Present</span></div>
+
+- _Incoming_: Contributing to Grab Payment Core's Data Platform
 
 ### <span>Leading Wealth Management Firm (Name Withheld)</span> <span>Kansas, US (Remote)</span>
 <div class="subheader"><span>Data Engineer (Part-time)</span> <span>Jun 2024 - Nov 2024</span></div>
@@ -25,17 +31,21 @@ hand -->
 - Designed and implemented ETL pipelines copying operational data from **Redshift** and **S3** to **Azure Data Lake** using **Azure Data Factory**.
 - Applied the Medallion architecture for data processing with **Spark** on **Databricks**
 - Developed APIs with **.NET** to expose system data from the Silver layer for seamless integration with downstream applications
+- Built a data testing framework with **Great Expectations**, establishing the foundation to ensure data quality
 
 ### <span>Holistics</span> <span>Ho Chi Minh, Vietnam</span>
 <div class="subheader"><span>Data Engineer</span> <span>Aug 2022 - Nov 2024</span></div>
 
-- Redesign a legacy **Data Warehouse** architecture with various modeling paradigms(Dimensional Modeling, Event Schema) using **dbt**, enabling scalable support for advanced business analytics use cases.
-- Develop and orchestrate **~100 ETL data pipelines** with **Prefect** from **~20** data sources to a central Data Warehouse, providing robust analytics insights and capabilities.
-- Implement a comprehensive **Data Catalog** in **dbdocs** with over **100** tables to streamline data accessibility, resulting in a **40%** increase in weekly active SQL Data Warehouse users.
-- Design and implement a data usage monitoring system with **Holistics** to pinpoint expensive query run on production. The system ultimately reduces redundant **BigQuery** usage by **70%** compared to its peak.
-- Setup **Snowplow event tracking** to measure product analytics, offering visibility into key success metrics and help Product team make data-informed decisions to accelerate iterative development.
-- Build a **data observability system** in **Grafana** for **~1500** data products (dashboards, data models and data pipelines). This system has enabled prompt responses to data pipeline failures with **60%** decrease in failure rates and reducing the mean time to recovery
-- Collaborate with the DevOps team to automate **GitHub Actions CI/CD** pipelines for internal data projects, reducing manual deployments and enabling faster, error-free releases.
+- Revamped the **Data Warehouse** architecture using **dbt**, enabling advanced business analytics.
+- Orchestrated **100+ ETL pipelines** with **Prefect**, integrating **20+ data sources** into a central Data Warehouse.
+- Developed a **Data Catalog** with **dbdocs**, increasing SQL user activity by **40%**.
+- Designed a data usage monitoring system, reducing redundant **BigQuery** usage by **70%**.
+- Built a **data observability system** in **Grafana**, decreasing pipeline failure rates by **60%**.
+- Automated CI/CD for data projects with **GitHub Actions**, reducing deployment errors.
+- Set up **Snowplow** to track product analytics, enabling data-driven decisions and faster product iterations.
+- Maintained and managed the entire data stack lifecycle, ensuring system reliability.
+- Supported Sales and Product teams in preparing Data Warehouse and datasets to demo Holistics BI solutions to potential customers.
+- Served as the primary contact for communicating with business and technical stakeholders, aligning on requirements to deliver effective data solutions.
 
 <div class="subheader">
   <span> Technical Writer </span> 
@@ -46,19 +56,22 @@ hand -->
 - Researched and documented BI use cases to enhance user understanding and adoption of analytics solutions. 
 
 ### <span>Troy University</span> <span>Troy, Alabama, US</span>
-<div class="subheader"><span>Computer Science Tutor and Lab Assistant</span> <span>Jul 2021 - May 2022</span></div>
+<div class="subheader"><span>Computer Science Tutor and Lab Assistant (Part-time)</span> <span>Jul 2021 - May 2022</span></div>
 
 - Tutored college students in Python, C++, Java with more than 200+ hours of coding lessons 
 -	Assisted instructor in the daily assessment of student progress and inspected student assignment
 
+<br/>
+<br/>
+
 ### <span>Kids Code Camp</span> <span>Ha Noi, Vietnam (Remote)</span>
-<div class="subheader"><span>Python Instructor</span> <span>Jul 2021 - Sep 2021</span></div>
+<div class="subheader"><span>Python Instructor (Part-time)</span> <span>Jul 2021 - Sep 2021</span></div>
 - Taught introductory Python for a group of ~150 international secondary/high-school students
 - Helped students develop programmatical thinking and inspired the new generation to purchase a career in tech
 
 ## Education
 ### <span>Troy University, Troy, AL</span> <span>Graduation Date: May 2022</span>
-<div class="subheader"><span>B.S Computer Science</span> <span><strong>GPA:</strong> 3.5/4.0</span></div>
+<div class="subheader"><span>B.S Computer Science, Minor in Mathematics</span> <span><strong>GPA:</strong> 3.5/4.0</span></div>
 
 ## Certificates
 - [ Data Engineer with Python ](https://www.datacamp.com/statement-of-accomplishment/track/6c5e5eacdffba0305fdac6454ba4cc5cc4520d30) (DataCamp)

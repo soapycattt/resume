@@ -20,9 +20,9 @@ line. It is intended to be used for contact details -->
 hand -->
 
 ### <span>Grab</span> <span>Ho Chi Minh, Vietnam</span>
-<div class="subheader"><span>Data Engineer</span> <span>Nov 2024 - Present</span></div>
+<div class="subheader"><span>Data Engineer (Incoming)</span> <span>Nov 2024 - Present</span></div>
 
-- _Incoming_: Contributing to Grab Payment Core's Data Platform
+- Contributing to Grab Payment Core's Data Platform
 
 ### <span>Leading Wealth Management Firm (Name Withheld)</span> <span>Kansas, US (Remote)</span>
 <div class="subheader"><span>Data Engineer (Part-time)</span> <span>Jun 2024 - Nov 2024</span></div>
@@ -36,17 +36,16 @@ hand -->
 ### <span>Holistics</span> <span>Ho Chi Minh, Vietnam</span>
 <div class="subheader"><span>Data Engineer</span> <span>Aug 2022 - Nov 2024</span></div>
 
-- Revamped the **Data Warehouse** architecture using variety of data modeling and data governance techniques, enabling advanced business analytics.
-- Prepared BI datasets with **dbt** and **Holistics**, assisting stakeholders in building analytics dashboards for business insights
+- Managed the full data processing lifecycle, from ingestion to serving layer.
+- Served as the primary contact for communicating with business and technical stakeholders, aligning on requirements to deliver effective data solutions.
+- Revamped the **BigQuery Data Warehouse** architecture using variety of data modeling and data governance techniques, enabling advanced business analytics and data management.
+- Prepared BI self-service datasets with **dbt** and **Holistics**, assisting stakeholders in building analytics dashboards for business insights
 - Orchestrated **100+ ETL pipelines** with **Prefect**, integrating **20+ data sources** into a central Data Warehouse.
 - Developed a **Data Catalog** with **dbdocs**, increasing SQL user activity by **40%**.
 - Designed a data usage monitoring system, reducing redundant **BigQuery** usage by **70%**.
 - Built a **data observability system** in **Grafana**, decreasing pipeline failure rates by **60%**.
 - Automated CI/CD for data projects with **GitHub Actions** and **Ansible**, reducing deployment errors.
 - Set up **Snowplow** to track product analytics, enabling data-driven decisions and faster product iterations.
-- Maintained and managed the entire data stack lifecycle, ensuring system reliability.
-- Supported Sales and Product teams in preparing datasets and reports to demo **Holistics** to prospects.
-- Served as the primary contact for communicating with business and technical stakeholders, aligning on requirements to deliver effective data solutions.
 
 <div class="subheader">
   <span> Technical Writer </span> 
@@ -79,7 +78,7 @@ hand -->
 
 ## Activities
 - *Volunteer* at Passage to ASEAN (P2A) Association: Universiti Teknologi Malaysia, Kuala Lumpur, Malaysia (2017)
-- *Volunteer* at Learning Express (LeX) Program: Singapore Polytechnic - Duy Tan University, Da Nang, Vietnam (2019)
+- *Volunteer* at Learning Express (LeX) Program: Singapore Polytechnic x Duy Tan University, Da Nang, Vietnam (2019)
 - *Participant* at Sustainable Development Forum: Feng Chia University, Taichung, Taiwan (2019)
 - *Member* of Computer Science club, Data & Information System club, Tennis club: Troy University, Alabama, U.S (2019 - 2022)
 - *President* of Vietnamese Student Association: Troy University, Alabama, U.S (2021 - 2022)
